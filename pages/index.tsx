@@ -3,7 +3,7 @@ import Questionario from '../components/Questionario'
 import QuestaoModel from '../model/questao'
 import { useRouter } from 'next/router'
 
-const BASE_URL = 'https://next-quiz-gules.vercel.app/api'
+const BASE_URL = 'https://next-quiz-alexandreconte.vercel.app/api'
 
 export default function Home() {
 
